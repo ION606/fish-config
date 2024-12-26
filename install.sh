@@ -39,3 +39,6 @@ cp terminal/alacritty.toml ~/.config/alacritty/alacritty.toml
 
 # Replace the starship configuration file (appending is not ideal here)
 cp terminal/starship.toml ~/.config/starship.toml
+
+# source it
+source ~/.config/fish/config.fish
